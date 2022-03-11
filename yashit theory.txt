@@ -1,0 +1,90 @@
+class
+	:- class is in c++ user-definde data type declare with keyword class
+	   class is collectoin data members and member functions
+
+		Vehicle --> car object
+		Fruit class --> mango
+
+		is a relation has relation
+		
+object
+
+		object is an entity of class
+		School is class and  
+
+construnctor :
+		constructor is a special function which has same name as class name, const has no reutrn type
+		const can have params
+		3 types of con
+		default, param,copy const....
+
+
+
+
+inheritance :-
+		child class can use property of parent class called inheritance...
+		but parent class can not use prop of child class...
+
+		: we can achive inheritance
+
+		use:-reusablity
+
+
+		engine,,
+		make , ,
+		man , ,
+		fuel, , ,
+		vehicle --> cars,bikes,train,....
+
+		Inheritance:
+
+		single inheritance...   1 parent 1 child class
+
+
+		a ->b
+
+		multilevel inheritance
+
+		a -> b ->c
+
+		x 
+		b ->c
+		b = p
+		c
+
+		multylevel
+
+						x
+					
+				p			       q
+
+
+			
+		2)
+
+				p                  q
+					   x	
+		
+
+		hyricical inheritance
+
+						x
+                                           p        q
+                                        m     n  z     y
+
+
+		hybride inheritance
+					 x  --> 10 a,b,c,d,e,f,g,h,i,j,k --> a 1 -> b ->5
+
+
+
+
+
+
+
+encapsulation
+abstraction
+polymorphisam
+	overloading
+	pverriding
+
