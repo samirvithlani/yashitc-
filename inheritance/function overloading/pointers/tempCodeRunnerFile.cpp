@@ -1,0 +1,1 @@
+cout<<"\n value of x = "<<this->x
