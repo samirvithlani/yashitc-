@@ -1,0 +1,7 @@
+char ar[]  == string ?
+
+char arr's memory allocated statically
+
+char name[30] =>
+yashit
+
