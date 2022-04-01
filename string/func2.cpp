@@ -13,7 +13,7 @@ int main(){
 
 
     //reverse(str.begin(),str.end());
-    reverse(str.begin(),str.end());
+    reverse(str.begin(),str. end());
 
     cout<<"\n reverse = "<<str;
     
