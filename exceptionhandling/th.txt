@@ -1,0 +1,14 @@
+ERROR      exceptions
+syntax...  Handle ...
+
+try catch blocks
+
+
+exceptions are run time anomailes or abnormal condition that a program encounters during it's excution.
+
+synchronous exceptions
+asynchronous exceptions
+
+
+why ?
+
