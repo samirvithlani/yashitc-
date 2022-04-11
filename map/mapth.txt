@@ -1,0 +1,11 @@
+1)each key has 5 students
+
+--->5 strings --> yashit,raj,jay,darshan,neha -->
+-->           ---> 
+
+2)['y'] = "yashit"
+['r'] = ""raj"
+
+
+3)LIST -->String type list  10 strings --->
+list should be inserted into map --> 
