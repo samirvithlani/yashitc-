@@ -1,0 +1,3 @@
+//create stack of emlloyees's salary,
+who is having highest salary will remove first
+*/
