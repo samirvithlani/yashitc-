@@ -1,0 +1,3 @@
+Cretae deque for employee salary
+
+employee salary can be added,removed,displayed,sorted and update....
