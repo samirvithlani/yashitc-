@@ -1,0 +1,6 @@
+//in set all elements are unique,set store data in a specific order..
+1)set stores data in sorted order
+2)all elements are unique
+3)the value of set can not be modified once it's added to set it can be removed but not modified.
+4)set follow Binary search tree implementation
+5)set does not have index..
