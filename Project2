@@ -1,0 +1,44 @@
+
+id
+name
+salary
+age
+role["developer","tester","techlead"]
+
+
+
+enter name for 1st employee
+enter salary 1st employee
+
+
+->1
+want to add more employees ?
+Y y
+enter name for 1st employee
+enter salary 1st employee
+
+
+->2
+want to add more employees ?
+n
+
+-->
+find heighest paid employee
+sort employee by salary  -> 
+sort employee by age ->
+find employee who is devloper and having heighest salary
+find employee who is techlead and oldest
+find employees who is having salary between of some amount --> 5000$ 10000$
+find employees who is having salary between of some amount --> 5000$ 10000$ make count dev?tech?,testre?
+
+100
+
+gv = -10
+functiona and class naming convention --> - 10
+getEmployee, EmployeeDetail, employeeName
+
+constructoer --3
+
+
+
+

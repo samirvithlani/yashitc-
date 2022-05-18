@@ -43,7 +43,7 @@ int main(){
 
     cout<<"\n count of element in vector = "<<count(v.begin(),v.begin()+4,12);
 
-    v.erase(unique(v.begin(),v.end()),v.end());
+    v.erase(unique(v.begin(),v.end v.end());
 
     cout<<"\n after removing duplicate elements...";
     for(auto i=0;i<v.size();i++){
