@@ -1,0 +1,10 @@
+int|bool copy (src,dest)
+{
+
+    //validation -->src
+    //dest
+    //
+
+
+
+}

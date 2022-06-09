@@ -1,0 +1,1 @@
+file.seekg(6,ios::beg);
