@@ -1,0 +1,38 @@
+E commerce:
+
+vector
+stack
+deque
+map
+set
+---------------------------------------------------------------------------------------------------------
+Product can be added
+filelds are pname,pprice,pcategory,pquantity,pdescription
+
+product categories are --> electronics,fashion,sports [array,vector,map] //array
+------
+while adding product you need to ask for position for category eg:press 1 for electronics ....
+
+product can be updated and deleted and all product can be retrived... CRUD
+--------------------------------------------------------------------------------------------------
+
+user can search product by name,price,category 
+-------------------------------------------------
+user can add product to cart..
+    -->
+cart can be displayed to user 
+
+
+cart can be edited..
+
+//product qty can be change and product can be deleted from cart
+
+display cart total price...
+------------------------------
+
+order --> cart function --> press 1 for place order -->
+
+cart remove... --> order --> 
+ 
+
+ switch case...
